@@ -2,3 +2,5 @@ numpy==2.0.2
 PennyLane==0.40.0
 torch==2.6.0
 matplotlib
+qiskit
+qiskit_machine_learning
